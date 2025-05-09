@@ -1,6 +1,6 @@
 # SoftSell - Software License Resale Platform
 
-A responsive marketing landing page for a fictional software license resale startup, built with React and Tailwind CSS.
+A responsive marketing landing page for a fictional software license resale startup, built with React+Vite, Tailwind CSS, framer motion.
 
 ## ✨ Features
 
